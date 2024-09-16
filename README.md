@@ -1,2 +1,2 @@
 # Data-Science
-This explaiins the thing
+This is the gitrepo for my Data Science class
